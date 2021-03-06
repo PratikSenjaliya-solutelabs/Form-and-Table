@@ -1,0 +1,30 @@
+
+.input {
+  height: 30px;
+  width: 300px;
+  border-radius: 10px;
+  margin: 10px;
+  font-size: 17px;
+  border: 2px solid coral;
+  padding-left: 20px;
+  font-weight: bold;
+}
+
+.button{
+  margin: auto;
+  margin-left: 10%;
+  margin-top: 10px;
+  border: 2px;
+}
+
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float_child {
+    width: 50%;
+    float: right;
+    padding: 20px;
+    border: 2px solid red;
+} 
