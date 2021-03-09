@@ -1,6 +1,6 @@
 import React from 'react';
 import { useFormik } from 'formik';
-import Validation from './Validation';
+import Validation from './validation';
 
 
 import InputTypes from './InputTypes'
