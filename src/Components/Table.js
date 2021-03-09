@@ -1,5 +1,4 @@
 import React from 'react';
-import classes from './Table.module.css';
 
 const Table=(props)=>{
     let formData=[props.tableData]
