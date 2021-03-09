@@ -33,10 +33,10 @@ addDataHandler = (props) => {
 
     render(){
         return(
-             <div className="maindiv">
+             <div className={classes.MainDiv}>
                  <div className={classes.Form}>
                      <Form addData={(data)=>this.addDataHandler(data)}
-                    toEdit={this.state.editData}/>
+                    edit={this.state.editData}/>
                  </div>
                 <div className={classes.Table}>
                     <Table enteredData={this.state.formData}
