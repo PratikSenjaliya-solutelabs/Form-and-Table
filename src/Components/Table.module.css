@@ -1,7 +1,15 @@
 table, th, td {
   border: 1px solid black;
+  
 }
 td{
     text-align: center;
     font-size: auto;
+    width: fit-content;
+    padding: 7px;
+}
+
+th{
+  text-align: justify;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }

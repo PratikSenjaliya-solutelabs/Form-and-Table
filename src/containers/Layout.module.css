@@ -1,0 +1,15 @@
+
+.Form{
+    float: left;
+     border: 5px solid gray;
+     margin: 20px;
+     padding: 20px;
+     height:fit-content;
+}
+
+.Table{
+    float: right;
+    border: 5px solid gray;
+     margin: 20px;
+     padding: 20px;
+}
